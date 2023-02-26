@@ -1,0 +1,161 @@
+.button-style {
+    font-size: 75px;
+    background-color: rgb(98, 180, 131);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style:hover {
+    font-size: 75px;
+    background-color: rgb(42, 130, 78);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style:active {
+    font-size: 75px;
+    background-color: rgb(25, 70, 43);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style2 {
+    font-size: 75px;
+    background-color: rgb(212, 57, 79);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style2:hover {
+    font-size: 75px;
+    background-color: rgb(147, 33, 49);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style2:active {
+    font-size: 75px;
+    background-color: rgb(123, 18, 33);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style3 {
+    font-size: 75px;
+    background-color: rgb(209, 126, 94);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style3:hover {
+    font-size: 75px;
+    background-color: rgb(209, 95, 50);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button-style3:active {
+    font-size: 75px;
+    background-color: rgb(173, 81, 45);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}

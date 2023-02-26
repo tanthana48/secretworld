@@ -1,0 +1,53 @@
+.button1-style {
+    font-size: 75px;
+    background-color: rgb(188, 167, 119);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button1-style:hover {
+    font-size: 75px;
+    background-color: rgb(156, 139, 100);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
+
+.button1-style:active {
+    font-size: 75px;
+    background-color: rgb(120, 107, 77);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 70px;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    height: 148px;
+    width: 678px;
+    -unity-font: url('project://database/Assets/Fonts/pixelmix.ttf?fileID=12800000&guid=1dc6d5d3b25c04e498e694f9de8f0ea7&type=3#pixelmix');
+    -unity-font-definition: url('project://database/Assets/Fonts/pixelmix%20SDF%201.asset?fileID=11400000&guid=a205ddd4b998d534c833704538874c5f&type=2#pixelmix SDF 1');
+    color: rgb(0, 0, 0);
+}
