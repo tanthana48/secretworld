@@ -15,3 +15,5 @@ Player can choose the difficulty of levels and the score will be doubled or trip
 Ex. Normal mode: score * 2 , Hard mode score * 3
 
 Player have to defeat all monster to pass each level.
+
+# assets cr. https://itch.io/, https://pixabay.com/, https://kenney.nl/
